@@ -34,7 +34,7 @@ const App = () => {
     <>
       <ThemeProvider theme={isDarkMode ? lightTheme : darkTheme}>
         <GlobalStyle />
-        <BrowserRouter basename="/">
+        <BrowserRouter basename="/fem-rest-countries">
           <Routes>
             <Route path="/" element={<Navigation />}>
               <Route
