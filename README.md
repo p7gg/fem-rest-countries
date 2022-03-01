@@ -2,7 +2,7 @@
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./src/assets/design/desktop-preview.jpg)
 
-[https://prodigy7kx.github.io/fem-rest-countries/](##Demo)
+# [**Demo**](https://prodigy7kx.github.io/fem-rest-countries/)
 
 ## Welcome! 👋
 
